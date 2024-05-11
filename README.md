@@ -27,7 +27,7 @@ Para testar o YouTubeClipper, siga estas etapas:
 ## 🎉 Exemplo de Resultado
 ### Neste vídeo: <br>
 <div align="left">
-    <a href="https://www.youtube.com/watch?v=iwt4bOIHy7s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=iwt4bOIHy7s" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/imersao-alura.png" width="30%" height="30%" />
     </a>
     <hr>
