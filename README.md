@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/YouTubeClipper.png"/>
+    <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/YouTubeClipper.png" width="20%" height="20%" />
     <hr>
 </div>
 
