@@ -1,10 +1,10 @@
 # YouTubeClipper
 Uma ferramenta em Python para extrair informações sobre vídeos do YouTube
 
-## Projeto
+## 📱 Projeto
 O YouTubeClipper é uma ferramenta que facilita a extração e o resumo de informações de vídeos do YouTube. Ele expande as capacidades do Gemini, permitindo o processamento de vídeos de qualquer tamanho e fornecendo uma solução abrangente para análise de conteúdo de vídeo em larga escala.
 
-## Tecnologias
+## ⚙️ Tecnologias
 - Python
 - Google Colab
 - YouTube API
@@ -13,7 +13,7 @@ O YouTubeClipper é uma ferramenta que facilita a extração e o resumo de infor
 ## Como Funciona
 O YouTubeClipper integra-se ao YouTube para baixar vídeos e extrair transcrições usando a YouTube API. Em seguida, utiliza a Gemini API para resumir automaticamente as transcrições dos vídeos processados. O resultado é uma linha do tempo automática dos vídeos, facilitando a compreensão e análise do conteúdo.
 
-## Como Testar
+## 🧪 Como Testar
 Para testar o YouTubeClipper, siga estas etapas:
 1. Clone o repositório.
 2. Abra o notebook `YouTubeClipper.ipynb` no Google Colab.
