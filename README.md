@@ -21,7 +21,7 @@ O YouTubeClipper integra-se ao YouTube para baixar vídeos e extrair transcriç�
 ## 🧪 Como Testar
 Para testar o YouTubeClipper, siga estas etapas:
 1. Clone o repositório.
-2. Abra o notebook `YouTubeClipper.ipynb` no Google Colab.
+2. Abra o notebook [`YouTubeClipper.ipynb`](https://colab.research.google.com/drive/1cnvPna6JC4nO0vm0Eu5dm4cx2FoRm-kQ?usp=sharing) no Google Colab.
 3. Siga as instruções fornecidas no notebook para processar um vídeo do YouTube e visualizar os resultados.
 
 ## 🎉 Exemplo de Resultado
