@@ -69,4 +69,11 @@ Este vídeo é uma aula prática sobre o desenvolvimento com o Gemini, o LLM do 
 01:19:45 - [Ocultar API Key usando segredos do Colab](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=1h19m45s)
 
 
+## 🔜 Próximos passos
 
+O próximo passo do projeto é implementar uma nova funcionalidade: a capacidade de buscar qualquer palavra ou frase nos vídeos. O usuáro informa uma palavra e o YouTube Clipper retorna uma timeline com todos os momentos em que a palavra foi citada. 
+
+Já existe um colab separado pronto funcionando com essa nova feature: 
+[`YouTubeClipper_Next.ipynb`](https://github.com/eduardoboca/YouTubeClipper/blob/main/src/YoutubeClipper_Next.ipynb)
+
+Mas ainda há alguns ajustes necessários para lidar com casos especiais, então decidimos deixar para versões futuras.
