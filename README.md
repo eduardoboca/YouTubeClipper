@@ -1,2 +1,2 @@
 # YouTubeClipper
-A Python tool for effortless clipping of YouTube videos.
+Uma ferramenta em Python para extrair informações sobre vídeos do YouTube
