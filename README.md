@@ -1,3 +1,8 @@
+<div align=center>
+    <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/YouTubeClipper.png"/>
+    <hr>
+</div>
+
 # YouTubeClipper
 Uma ferramenta em Python para extrair informações sobre vídeos do YouTube
 
