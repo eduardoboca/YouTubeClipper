@@ -27,46 +27,24 @@ Para testar o YouTubeClipper, siga estas etapas:
 ## 🎉 Exemplo de Resultado
 ### Neste vídeo: <br>
 <div align="left">
-    <a href="https://www.youtube.com/watch?v=iwt4bOIHy7s" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/imersao-alura.png" width="30%" height="30%" />
+    <a href="https://www.youtube.com/watch?v=KG3Or6IydNo" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/alepe.png" width="30%" height="30%" />
     </a>
     <hr>
 </div>
 
 O resultado do processamento foi o seguinte:
 #### Resumo:
-Este vídeo é uma aula prática sobre o desenvolvimento com o Gemini, o LLM do Google. A aula aborda a integração da API Gemini com Python para criar chatbots, explicando modelos, parâmetros de geração e segurança. Ele também oferece um tutorial para criar um chatbot interativo e um desafio para os alunos criarem projetos usando a API Gemini. O vídeo orienta os alunos sobre como enviar projetos para o GitHub e enfatiza as diretrizes éticas do Google.
+O vídeo aborda a estrutura e o funcionamento das frentes parlamentares e comissões especiais na Assembleia Legislativa de Pernambuco (Alepe). Ele explica o processo de criação, composição e objetivos desses colegiados, destacando seu papel crucial na discussão e acompanhamento de questões de interesse público..
 
 #### Timeline:
-00:00:01 - [Boas-vindas e introdução à aula](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=1s)
+00:00:13 - [Frentes parlamentares e comissões especiais na Alepe](https://www.youtube.com/watch?v=KG3Or6IydNo&t=13s)
 
-00:00:07 - [Apresentação dos instrutores](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=7s)
+00:00:30 - [Criação de frentes parlamentares](https://www.youtube.com/watch?v=KG3Or6IydNo&t=30s)
 
-00:00:17 - [Objetivos da aula](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=17s)
+00:01:03 - [Formação de comissões especiais](https://www.youtube.com/watch?v=KG3Or6IydNo&t=63s)
 
-00:00:32 - [Como usar a IA a nosso favor](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=32s)
-
-00:00:45 - [Não é necessário ter conhecimento prévio de programação](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=45s)
-
-00:01:14 - [Como obter a API Key](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=1m14s)
-
-...
-
-00:21:02 - [Introdução aos modelos do Gemini](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=21m2s)
-
-00:21:10 - [Usando um loop for para iterar sobre os modelos](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=21m10s)
-
-00:28:56 - [Definindo parâmetros de geração](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=28m56s)
-
-00:31:33 - [Configuração de parâmetros de segurança](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=31m33s)
-
-00:35:54 - [Inicialização do modelo](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=35m54s)
-
-...
-
-
-
-01:19:45 - [Ocultar API Key usando segredos do Colab](https://www.youtube.com/watch?v=iwt4bOIHy7s&t=1h19m45s)
+00:01:37 - [Acompanhamento das atividades legislativas na TV Alepe e no YouTube](https://www.youtube.com/watch?v=KG3Or6IydNo&t=97s))
 
 
 ## 🔜 Próximos passos
