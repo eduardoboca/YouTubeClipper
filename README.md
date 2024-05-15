@@ -44,7 +44,7 @@ O vídeo aborda a estrutura e o funcionamento das frentes parlamentares e comiss
 
 00:01:03 - [Formação de comissões especiais](https://www.youtube.com/watch?v=KG3Or6IydNo&t=63s)
 
-00:01:37 - [Acompanhamento das atividades legislativas na TV Alepe e no YouTube](https://www.youtube.com/watch?v=KG3Or6IydNo&t=97s))
+00:01:37 - [Acompanhamento das atividades legislativas na TV Alepe e no YouTube](https://www.youtube.com/watch?v=KG3Or6IydNo&t=97s)
 
 
 ## 🔜 Próximos passos
